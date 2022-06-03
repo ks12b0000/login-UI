@@ -1,0 +1,153 @@
+@charset "UTF-8";
+	body h2 {
+		margin-left: 20px;
+	}
+	.login1 {
+		width: 500px;
+		border: 1px solid gray;		
+		margin: 40px;
+		padding: 40px;
+		
+	}
+	.login1 #id {
+		width: 400px;
+		
+		padding: 4px;
+	}
+	.login1 #id input {
+		
+		margin-left: 30px;
+	}
+	.login1 #pw {		
+		
+		padding: 4px;
+	}
+	.login1 #pw input {
+		
+		margin-left: 52px;
+	}
+	.login1 #login_Bt {
+		text-align: right;
+		margin-top: -50px;
+		margin-right: 120px;
+	}
+	.login1 #login_Bt input {	
+		margin-left: 5px;
+		padding: 12px;
+		border: 1px solid white;
+		background-color: #A5DF00;
+		color: white; 
+	}
+	.login1 #login_Ck {
+		margin-top: 10px;
+	}
+	.login2 {
+		border: 1px solid gray;
+		font-size: 13px;
+		background-color: #F2F2F2;
+		width: 500px;	
+		margin: 40px;
+		padding: 40px;
+		margin-top: -50px; 
+		
+	}
+	.login2 h3 {
+		margin-top: -20px;
+		margin-left: -30px;
+	}
+	.login2 p {
+		margin-top: -20px;
+		margin-left: -30px;
+	}
+	.login2 form {
+		margin-top: 10px;
+		margin-left: 250px; 
+		
+	}
+	.login2 #idpw_bt {
+		border: 1px solid white;
+		background-color: #A5DF00;
+		color: white;
+	}
+	.login2 #signup {
+		border: 1px solid #BFFF00;
+		background-color: white;
+		color: #80FF00;
+	}
+	body #mainback {
+		margin-left: 220px;
+		text-decoration: none;
+		color: black;
+	}
+	body #em2 {
+		border-top: 1px solid gray;
+		margin-left: 20px;
+		padding-top: 15px;
+	}
+	#email1 {
+		margin-left: 20px;
+		font-size: 19px;
+	}
+	#email1 input {
+		width: 500px;
+		height: 30px;
+	}
+	.button {
+		margin-top: 40px;
+		margin-left: 250px;
+	}
+	.button #Confirm {
+		margin-left: 5px;
+		padding: 12px;
+		width: 150px;
+		border: 1px solid white;
+		background-color: #A5DF00;
+		color: white; 
+	}
+	.button #close {
+		margin-left: 5px;
+		padding: 12px;
+		width: 100px;
+		border: 1px solid white;
+		background-color: #0B3B39;
+		color: white;
+	}
+	body #tm2 {
+		color: red;
+		text-align: center;
+	}
+	body #tm3,#tm5 {
+		text-align: center;
+	}
+	body #tm4,#tm6 {
+		border: 1px solid black;
+		width: 1300px;
+		height: 300px;
+		background-color: #D8D8D8;
+		margin-left: 10px;
+	}
+	#terms_Ck,#terms_Ck2 {
+		text-align: right;
+	}
+	#signup3 {
+		text-align: center;		
+	}
+	#signup3 input {
+		margin-left: 5px;
+		padding: 12px;
+		border: 1px solid white;
+		background-color: #A5DF00;
+		color: white; 
+	}
+
+
+
+
+
+
+
+
+
+
+
+
