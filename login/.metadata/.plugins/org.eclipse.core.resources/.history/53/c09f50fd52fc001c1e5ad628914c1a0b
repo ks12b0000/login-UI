@@ -1,0 +1,52 @@
+@charset "UTF-8";
+
+.signupcomplete {
+	text-align: center;
+	margin-top: 7%;
+}
+ .signupcomplete_msg {
+	border: 1px solid #9966ff;
+	height: 350px;
+	width: 650px;
+	margin: 0 auto;
+	margin-top: 7%;
+}
+
+.signupcomplete_information {
+	border: 1px solid #afc4ed;
+	height: 100px;
+	width: 500px;
+	margin-left: 70px;
+	padding-bottom: 5px;
+	background-color: #E6E6E6;
+	margin-bottom: 50px;
+}
+
+.signupcomplete_msg > h2 {
+	color: #9966ff;
+}
+
+.signupcomplete_msg > p > strong {
+	color: #9966ff;
+}
+
+.signupcomplete_msg > p {
+	padding-top: 5px;
+}
+
+.main_home > a {
+	color: red;
+	padding-top: -1000px;
+}
+/*
+h3 {
+	text-align: center;
+	position: absolute;
+	margin-left: 27%;
+	margin-top: -5%;
+}
+
+.side_content {
+	text-align: left;
+	position: absolute;
+} */

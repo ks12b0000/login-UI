@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+.signupcomplete_msg {
+	text-align: center;
+	border: 1px solid #9966ff;
+	height: 350px;
+	width: 50%;
+	margin-left: 350px;
+}
+
+.signupcomplete_id {
+	border: 1px solid #afc4ed;
+	height: 80px;
+	width: 50%;
+	margin-left: 160px;
+	padding-bottom: 10px;
+	background-color: #E6E6E6;
+}
+
+.signupcomplete_msg > h2 {
+	color: #9966ff;
+}
+
+.signupcomplete_msg > p > strong {
+	color: #9966ff;
+}
+
+.signupcomplete_msg > a {
+	margin-top: 15px;
+}

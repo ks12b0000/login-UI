@@ -1,0 +1,27 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<h1>People in Trip</h1>
+	<form>
+		<div>
+			<input type="text" placeholder="아이디" id="login_id" />
+			<input type="password" placeholder="비밀번호" id="login_pw" />
+		</div>
+		<ul>
+			<li><a href="#">아아디 찾기</a></li>
+			<li><a href="#">비밀번호 찾기</a></li>
+			<li><a href="#">회원가입</a></li>
+		</ul>
+		<button type="submit">로그인</button>
+	</form>
+	<div>
+		<a href="#">간편하게 로그인 하기</a>
+	</div>
+</body>
+</html>

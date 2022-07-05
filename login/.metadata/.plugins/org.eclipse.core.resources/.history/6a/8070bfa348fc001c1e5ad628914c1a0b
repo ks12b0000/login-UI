@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+.signupcomplete_msg {
+	text-align: center;
+	border: 1px solid #9966ff;
+	height: 350px;
+	width: 50%;
+	margin: 50%;
+}
+
+.signupcomplete_id {
+	border: 1px solid #afc4ed;
+}

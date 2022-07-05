@@ -1,0 +1,48 @@
+@charset "UTF-8";
+
+.signupcomplete_msg {
+	text-align: center;
+	border: 1px solid #9966ff;
+	height: 350px;
+	width: 50%;
+/* 	margin-left: 350px;
+	margin-top: 7%; */
+	margin: 50%;
+	position: absolute;
+}
+
+.signupcomplete_information {
+	border: 1px solid #afc4ed;
+	height: 80px;
+	width: 50%;
+	margin-left: 160px;
+	padding-bottom: 10px;
+	background-color: #E6E6E6;
+}
+
+.signupcomplete_msg > h2 {
+	color: #9966ff;
+}
+
+.signupcomplete_msg > p > strong {
+	color: #9966ff;
+}
+
+.main_home > a {
+	color: red;
+	padding-top: -1000px;
+}
+
+h3 {
+	text-align: center;
+	padding-top: 7%;
+	position: absolute;
+	display: inline-block;
+}
+
+.side_content {
+	text-align: left;
+	padding-top: 15%;
+	padding-left: 10%;
+	position: absolute;
+}
