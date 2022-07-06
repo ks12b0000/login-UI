@@ -1,0 +1,86 @@
+
+    header {
+        text-align: center;
+        font-size: 25px;
+        color: white;
+        background-color: #9966FF;
+        font-family: Pacifico;
+        margin: 1em auto;
+        width: 90%;
+        padding-bottom: 2.5px;
+    }
+    body {
+        max-width: 100%;
+        width: 1200px;
+        margin: 0 auto;
+    }
+    /*aside 단*/
+    .side_content {
+        float: left;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 600;
+        font-size: 20px;
+        text-align: center;
+        width: 25%;
+        background-color: white;
+        height: 410px;
+        border-right: solid 2px lightgray;
+    }
+    #side_content1 {
+        border: solid 3px #9966FF;
+        box-sizing: border-box;
+        border-radius: 20px;
+        margin: 50px 55px;
+        padding: 30px;
+        background-color: #9966FF;
+        color: white;
+    }
+    #side_content2 {
+        border: solid 3px #9966FF;
+        box-sizing: border-box;
+        border-radius: 20px;      
+        margin: 80px 55px;
+        padding: 30px;
+    }
+    /*메인단*/
+    .signupcomplete_msg {
+        margin-left: 28%;
+        margin-right: 15%;
+        border: 2px solid #9966ff;
+        text-align: center;
+        margin-top: 2%;
+        padding-bottom: 3%;
+    }
+    h3 {
+    	position:relative;
+        border-bottom: solid 3px #9966FF;
+        padding-bottom: 0.3em;
+        padding-top: 5px;
+        font-family: Impact;
+        color: #9966FF;
+        font-size: 25px;
+        font-weight: 700;       
+        width: 35%;
+      	margin-left: 350px;
+    }
+
+	.signupcomplete_information {
+		border: 1px solid #afc4ed;
+		width:80%;
+		background-color: #E6E6E6;
+		margin-left: 8%;
+		margin-top: 5%;
+	}
+	.signupcomplete_information > p {
+		text-align: left;
+		margin-left: 20%;
+	}
+	.main_home > a {
+		color: #94aee0;
+	}
+	
+	.main_home {
+		margin-top: 35px;
+		
+	}
+ 

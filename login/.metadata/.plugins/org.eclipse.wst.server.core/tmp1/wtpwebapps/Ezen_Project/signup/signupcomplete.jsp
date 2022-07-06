@@ -5,14 +5,20 @@
 <head>
 <meta charset="UTF-8">
 <title>회원가입 완료</title>
-<link rel="stylesheet" href="../resources/css/signup/signup.css" />
+<link rel="stylesheet" href="../resources/css/signup/signup1.css" />
+<link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet'>
 </head>
 <body>	
-	<div class="side_content">
-		<p id="side_content1">정보입력</p>
-		<p id="side_content2">가입완료</p>
+<header>
+	<div>
+		<h1>People in trip</h1>
 	</div>
-	<h3>가입완료</h3>
+</header>
+	<aside class="signup_leftside">
+		<div id="aside_box1">정보입력</div>
+		<div id="aside_box2">가입완료</div>
+	</aside>
+	<h3 id="main_head">가입완료</h3>
 	<div class="signupcomplete_msg">
 		<h2>회원 가입이 완료되었습니다.</h2>
 		<p>여행 속, 사람이 있다! <strong>피플 인 트립</strong>에 가입해주셔서 감사합니다.<br>
