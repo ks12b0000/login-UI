@@ -19,3 +19,5 @@
 7월 05, 2022 20:55:46.626 [7404:4952:0705/205546.625:ERROR:device_event_log_impl.cc(214)] [20:55:46.625] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
 7월 05, 2022 20:55:46.649 [7404:4952:0705/205546.648:ERROR:device_event_log_impl.cc(214)] [20:55:46.647] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: 사용 가능한 데이터가 없습니다. (0x103)
 7월 05, 2022 21:03:07.623 [7404:11136:0705/210307.623:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+7월 06, 2022 24:21:38.808 [7404:4952:0706/002138.807:ERROR:device_event_log_impl.cc(214)] [00:21:38.807] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+7월 06, 2022 09:08:37.618 [7404:10136:0706/090837.614:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
